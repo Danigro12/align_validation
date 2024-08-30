@@ -9,26 +9,16 @@ The script does the following steps:
 
 2) Create a .fasta that follows the following formula:
 
-a). 100 positive control samples, coming from the positive db created. Size 19.
-<br/>
-b) 100 positive control samples, originating from the positive db created. Size 33.
-<br/>
-c) 100 complementary reverse positive control samples, originating from the positive db created. Size 19.
-<br/>
-d) 100 complementary reverse positive control samples, originating from the positive db created. Size 33.
-<br/>
-e) 100 negative control samples, coming from the negative db created. Size 19.
-<br/>
-f) 100 negative control samples, coming from the negative db created. Size 33.
-<br/>
-g) 100 complementary reverse negative control samples, originating from the negative db created. Size 19.
-<br/>
-h) 100 complementary reverse negative control samples, originating from the negative db created. Size 33.
-<br/>
-i) 100 random samples (negative control). Size 19
-<br/>
-j) 100 random samples (negative control). Size 33
-
+- 100 positive control samples, coming from the positive db created. Size 19.
+- 100 positive control samples, originating from the positive db created. Size 33.
+- 100 complementary reverse positive control samples, originating from the positive db created. Size 19.
+- 100 complementary reverse positive control samples, originating from the positive db created. Size 33.
+- 100 negative control samples, coming from the negative db created. Size 19.
+- 100 negative control samples, coming from the negative db created. Size 33.
+- 100 complementary reverse negative control samples, originating from the negative db created. Size 19.
+- 100 complementary reverse negative control samples, originating from the negative db created. Size 33.
+- 100 random samples (negative control). Size 19
+- 100 random samples (negative control). Size 33
 
 3) Use alignment program (sortmerna) with seeds 8, 10, 12, 14, 16 and 18.
 
