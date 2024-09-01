@@ -5,8 +5,9 @@ Script developed for testing SortMeRNA alignment algorithm. This testing is spec
 <br/>
 What you need to run it?
 <br/>
-- SortMeRNA installed (https://github.com/sortmerna).
+- SortMeRNA installed (https://github.com/sortmerna)
 - Python v.3+
+- Biopython (https://biopython.org)
 <br/>
 Run the .sh file on the terminal with the following inputs:
 <br/>
