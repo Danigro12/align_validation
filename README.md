@@ -1,6 +1,6 @@
 ## Alignment Validation of SORTMERNA
 
-Script developed for testing SortMeRNA alignment algorithm. This testing is specially useful for short sequences, like miRNA. In the future, it could be adjusted for testing others alignment algorithms.
+Script developed for testing SortMeRNA alignment algorithm. This testing is specially useful for short sequences datasets, like miRNA. In the future, it could be adjusted for testing others alignment algorithms.
 <br/>
 <br/>
 What you need to run it?
@@ -12,7 +12,7 @@ What you need to run it?
 Run the .sh file on the terminal with the following inputs:
 <br/>
 <br/>
-batch_align.sh -- path_to_sortme_rna_bin -- min_len_of_read -- max_len_of_read -- cp_database -- cn_database
+batch_align.sh < path_to_sortme_rna_bin -- min_len_of_read -- max_len_of_read -- cp_database -- cn_database
 
 - path_to_sortme_rna_bin = path to sortmerna binary file
 - min_len_of_read = the minimum length of the sequence to be tested
